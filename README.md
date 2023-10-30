@@ -1,4 +1,21 @@
-# Async Giphy
+<h1 align="center">Async Giphy</h1>
+<div align="center">
+  <h2>Background</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+  👨‍💻 This repository was created as a part of my <a href="https://www.multiverse.io/en-GB/programmes/software-engineering" draggable="false">Multiverse Bootcamp</a>
+</p>
+<div align="center">
+  <h2>Original README</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+<strong><em>Async Giphy</em></strong>
 
 Who doesn't love a good gif?  
 ![](https://media.giphy.com/media/cJMlR1SsCSkUjVY3iK/giphy.gif)
@@ -105,3 +122,13 @@ You now have the power of the entire Giphy library, the opportunities are endles
     - Research how to get values from a form when they are submitted. The value should be used to call `getImage(query)` with `query` being the searched value.
     - Output the result of the search to the screen.
 5. Output all 25 images to the page when they search for them rather than a single image.
+</p>
+<div align="center">
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<div align="center">
+  <img src="./img/madebycaydn.svg" alt="A badge showing that this was 'Made by Caydn'" draggable="false"
+    title="Made by Caydn">
+</div>
