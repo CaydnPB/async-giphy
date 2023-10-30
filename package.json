@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/MultiverseLearningProducts/Async-Giphy#readme",
   "dependencies": {
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.2",
+    "prompt-sync": "^4.2.0"
   }
 }
